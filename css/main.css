@@ -1,1 +1,16 @@
-/* Los estilos de tu proyecto */
+body {
+  background-color: black;
+}
+
+.login-section {
+  background-image: url("../assets/images/taxi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 92%;
+}
+
+.login-square {
+  height: 410px;
+  width: 550px;
+  background-color: #f7b617;
+}
