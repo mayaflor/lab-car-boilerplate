@@ -27,3 +27,7 @@ body {
   background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7));
   height: 100%;
 }
+
+.footer-section {
+  background-color: #2b2b2b;
+}
