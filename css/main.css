@@ -2,6 +2,10 @@ body {
   background-color: #f7b617;
 }
 
+.main-header{
+  height: 120px;
+}
+
 .login-section {
   background-image: url("../assets/images/taxi.jpg");
   background-repeat: no-repeat;
@@ -12,6 +16,12 @@ body {
 .login-square {
   height: 410px;
   width: 550px;
+  background-color: #f7b617;
+}
+
+.xs-login-square {
+  height: 50vw;
+  width: 80vw;
   background-color: #f7b617;
 }
 
