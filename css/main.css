@@ -33,6 +33,16 @@ body {
   background-position: 100% 52%;
 }
 
+@media screen and (max-width: 540px) {
+  .conduce-section {
+    height: 450px;
+    background-image: url("../assets/images/conduce.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+
 .conduce-box {
   background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7));
   height: 100%;
