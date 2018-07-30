@@ -40,6 +40,12 @@ body {
 
 .footer-section {
   background-color: #2b2b2b;
+  height: 625px;
+}
+
+.footer-logo {
+  margin-left:8vw;
+  margin-top:8vw;
 }
 
 @media screen and (max-width: 540px) {
@@ -53,5 +59,21 @@ body {
     background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7));
     height: 100%;
     width: 100vw;
+  }
+  .first-links-section {
+    order: 0;
+  }
+  .social-icons {
+    order: 1;
+  }
+  .app-buttons {
+    order: 2;
+    margin-left: -32vw;
+  }
+  .footer-section {
+    height: 480px;
+  }
+  .footer-logo {
+    margin-top:1vw;
   }
 }
