@@ -38,6 +38,11 @@ body {
   height: 100%;
 }
 
+.map-one {
+  padding: 8px;
+  border: solid 1px white;
+}
+
 .footer-section {
   background-color: #2b2b2b;
   height: 625px;
