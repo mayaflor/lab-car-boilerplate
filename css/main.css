@@ -38,9 +38,14 @@ body {
   height: 100%;
 }
 
-.map-one {
+.map {
   padding: 8px;
   border: solid 1px white;
+}
+
+.last-section {
+  height:570px;
+  width:100vw;
 }
 
 .footer-section {
@@ -65,6 +70,9 @@ body {
     height: 100%;
     width: 100vw;
   }
+  .last-section {
+    height:650px;
+  }  
   .first-links-section {
     order: 0;
   }
