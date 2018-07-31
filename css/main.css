@@ -58,7 +58,7 @@ body {
   margin-top:8vw;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 600px) {
   .conduce-section {
     height: 450px;
     background-image: url("../assets/images/conduce.jpg");
