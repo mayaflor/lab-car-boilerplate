@@ -51,6 +51,11 @@ body {
   position: relative;
 }
 
+.register-container {
+  width: 40vw;
+  margin: 0 auto;
+}
+
 .conduce-section {
   height: 450px;
   background-image: url("../assets/images/conduce.jpg");
